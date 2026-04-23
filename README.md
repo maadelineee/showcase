@@ -51,6 +51,6 @@ Each folder includes:
 
 ## 📬 let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Madeline%20Elena-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Madeline%20Elena-blue?style=flat&logo=linkedin)](https://linkedin.com/in/madeline-elena-djunaedi)
 [![Email](https://img.shields.io/badge/Email-madeline.elena%40gmail.com-red?style=flat&logo=gmail)](mailto:madeline.elena@gmail.com)
 ---
