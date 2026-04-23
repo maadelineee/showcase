@@ -49,6 +49,15 @@ Each folder includes:
 
 ---
 
+## 📄 documents
+
+| | |
+|---|---|
+| 📋 curriculum vitae | [`view CV`](./2026_Madeline%20Elena_Resume.pdf) |
+| 🎓 grade transcript | [`view transcript`](./GradeTranscript2025.pdf) |
+
+---
+
 ## 📬 let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Madeline%20Elena-blue?style=flat&logo=linkedin)](https://linkedin.com/in/madeline-elena-djunaedi)
