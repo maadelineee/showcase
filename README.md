@@ -2,7 +2,7 @@
 
 i'm wrapping up an integrated bachelor–master's in information systems management 
 at bina nusantara university — thesis defended, just waiting on the graduation ceremony 
-(aug / dec 2025, almost there!).
+(aug / dec 2026, almost there!).
 
 i'm the kind of person who gets genuinely curious about how systems fit together — 
 not just technically, but strategically. why does this process exist? where does it 
